@@ -19,14 +19,14 @@ I'm a self-taught web developer from Ukraine 🇺🇦, currently living in Polan
 ---
 
 ## 🧩 Projects
-<!--
-You can find some of my work in my public repositories:
-- [🛒 E-commerce app (Next.js + Supabase)](https://github.com/your-username/ecommerce-project)
-- [📄 Text file generator (Next.js + Vercel)](https://github.com/your-username/text-generator)
-- [🧪 Learning Qwik framework](https://github.com/your-username/qwik-playground)
 
-➡️ More coming soon...
+You can find some of my work in my public repositories:
+- [🛒 E-commerce app (Next.js + AWS + MongoDB)](https://github.com/Totogodo/food-ordering-app)
+- [📄 Text file generator (Next.js + Vercel)](https://github.com/Totogodo/dock-form)
+<!-- - [🧪 Learning Qwik framework](https://github.com/your-username/qwik-playground)
 -->
+➡️ More coming soon...
+
 ---
 
 ## 📬 Contact

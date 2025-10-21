@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mykola Zaiarnyi</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h1 align="start">Hi 👋, I'm Mykola</h1>
+<h3 align="start">A passionate developer from Ukraine and tech enthusiast</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=totogodo" alt="totogodo" /></a> </p>
 -->
-- 🔭 I’m currently working on **AiB - Blog with AI assistant**
-
-- 📫 How to reach me **mzaiarnyi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
